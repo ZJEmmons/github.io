@@ -5,8 +5,6 @@ Portfolio
         Notes
 ***************************
 
-@author Zachary J. Emmons
-
 Java Swing application for taking class notes.
 .jar found in dist
 class and java files in src
