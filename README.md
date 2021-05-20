@@ -4,8 +4,8 @@
 ***************************
 
 Java Swing application for taking class notes.
--.jar found in dist
--class and java files in src
+- .jar found in dist
+- class and java files in src
 
 Features:
 - Filechooser txt file writing and reading. 
